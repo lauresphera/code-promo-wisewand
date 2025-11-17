@@ -5,7 +5,7 @@ Tu as sûrement déjà entendu parler des outils d’intelligence artificielle q
 Ce nouveau rédacteur IA conçu par une équipe française promet de booster la création de contenu SEO tout en faisant gagner un temps précieux.
 Après avoir testé ses principales fonctionnalités et mesuré ses résultats, voici une analyse complète, honnête et concrète — sans jargon ni exagération.
 
-🤔 Wisewand, c’est quoi ?
+🤔 Wisewand, c’est quoi ? https://wisewand.ai/?fpr=laurent22
 Wisewand est un outil de rédaction assistée par IA dédié au SEO. Il t’aide à produire des textes optimisés pour le référencement naturel, que ce soit des articles de blog, des descriptions produits ou d’autres contenus web.
 
 Son objectif : te faire gagner du temps tout en améliorant la pertinence et la structure de tes textes. Il corrige le syndrome de la page blanche et automatise une grande partie de la recherche de mots-clés et du travail éditorial.
@@ -90,4 +90,5 @@ En clair :
 ✅ Précieux pour la rédaction orientée affiliation ou e-commerce.
 ❌ À éviter si tu cherches une écriture 100% automatique ou très créative.
 
-Utilisé intelligemment, il peut vraiment faire passer ta production de contenu à un niveau supérieur.
+Utilisé intelligemment, il peut vraiment faire passer ta production de contenu à un niveau supérieur. Renseignez-vous sur https://wisewand.pages.dev/
+
